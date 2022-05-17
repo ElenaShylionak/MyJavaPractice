@@ -4,6 +4,7 @@ public class CheckingNumbers {
 
     public static void main(String[] args) {
         //Программа, которая проверяет имеют ли числа а, b и с бельше отрицательных и положительных чисел
+        //без циклов и массивов
 
         Scanner input = new Scanner(System.in);
 
