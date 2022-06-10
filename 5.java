@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class CheckingNumbers5 {
     public static void main(String[] args) {
 
-        //Программа, которая проверяет числа отрицательное или положительное
+        //Программа, которая проверяет числа отрицательное или положительное. без массива
 
         Scanner input = new Scanner(System.in);
 
